@@ -1,4 +1,4 @@
-## The Solar Syestem
+## The Solar System
 
 ### 👀 Preview
 <img src="./images/the-solar-system.png" alt="the-solar-system">
@@ -6,7 +6,7 @@
 #### A detailed project for creating and simulating our Solar System Model.
 
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/xodivorce/the-solar-system/)
-[![version](https://img.shields.io/badge/version-v1.2.0-yellow.svg?style=flat)](https://github.com/xodivorce/the-solar-system/)
+[![version](https://img.shields.io/badge/version-v1.2.1-yellow.svg?style=flat)](https://github.com/xodivorce/the-solar-system/)
 [![PRs](https://img.shields.io/badge/PRs-not%20accepted-lightgrey.svg?style=flat)](https://github.com/xodivorce/the-solar-system/)
 
 > **🥰 Like this project? Please consider giving it a Star (🌟) on GitHub to show us your appreciation. Thank you!**
